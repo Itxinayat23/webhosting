@@ -1,0 +1,51 @@
+.navbar li,a{
+
+    list-style: none; 
+    text-decoration: none;
+    float: right;
+            
+            }
+            .navbar a{
+                padding: 15px;
+                margin-right: 50px;
+              color: white;
+                border: 1px solid white;
+                font-size: 17px;
+                z-index: 10;
+    
+      
+            }
+    
+            
+            .navbar a:hover{
+                background-color: royalblue;
+            }
+            body{
+                background-image: url(https://images.pexels.com/photos/1907227/pexels-photo-1907227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+            }
+        .h33{
+            color: aliceblue;
+        font-family: cursive;
+        }
+        .INAYAT{
+            color: aliceblue;
+        }
+        .CONTACT h2{
+            color: aliceblue;
+            margin: 320px;
+            text-align: center;
+            font-size: 60px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.col p{
+ color: aliceblue;
+text-align: center;
+border: 1px solid wheat;
+align-items: center;
+text-decoration: none;
+}
+.col img{
+    width: 800px;
+    height: 700px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
